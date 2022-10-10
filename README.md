@@ -17,7 +17,14 @@ ____
 ____
 ## Что делать, если браузер блокирует загрузку файла?
 Необходимо нажать комбинацию клавиш «Ctrl + J» или перейти в раздел загрузок браузера, а затем выбрать пункт «Сохранить» около загружаемого файла.
+
+Инструкция в скриншотах:
+![](https://soft-setup.ru/wp-content/webp-express/webp-images/uploads/2021/03/image-17.png.webp)
+![](https://soft-setup.ru/wp-content/webp-express/webp-images/uploads/2021/03/image-19.png.webp)
+![](https://soft-setup.ru/wp-content/webp-express/webp-images/uploads/2021/04/image-2.png.webp)
+
 Такие блокировки это нормально, поскольку в архиве и установщике содержится необходимый для работы скрипта SampFuncs (взятый с официального сайта), на который жалуются браузеры.
+
 Более подробная инструкция есть в [этой](https://soft-setup.ru/razreshit-skachivanie-fajla-kotoryj-google-chrome-blokiruet/) статье.
 ____
 [:arrow_up: Оглавление](#оглавление)
