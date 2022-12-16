@@ -3,7 +3,7 @@
 ____
 [Скачать автоматический установщик](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.exe?raw=true)
 
-[Скачать архив для ручной установки](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.zip?raw=true)
+[Скачать архив для ручной установки](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.rar?raw=true)
 ____
 ## Оглавление
 
@@ -55,7 +55,7 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.zip?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену, если потребуется.
+[Скачайте архив](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену, если потребуется.
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
