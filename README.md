@@ -1,9 +1,9 @@
 # Adev Addon
 ![](http://sun9-63.userapi.com/impf/c855320/v855320539/234110/vgRS5CxXpTs.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=a0a5d9898722901b8fa1312610b7b5a4&type=cover_group)
 ____
-[Скачать автоматический установщик](https://github.com/ARX-DEV/Adev-Addon/blob/main/AVPGameProtect.exe?raw=true)
+[Скачать автоматический установщик](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.exe?raw=true)
 
-[Скачать архив для ручной установки](https://github.com/ARX-DEV/Adev-Addon/blob/main/AVPGameProtect.rar?raw=true)
+[Скачать архив для ручной установки](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.rar?raw=true)
 ____
 ## Оглавление
 
@@ -50,12 +50,12 @@ ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Автоматическая установка
-[Скачайте и запустите файл](https://github.com/ARX-DEV/Adev-Addon/blob/main/AVPGameProtect.exe?raw=true) (который просто распаковывает файлы, никакой рекламы, папок в меню «Пуск», ярлыков и прочего он не создаёт и не добавляет), для установки необходимо лишь запустить его и выбрать папку с игрой (там, где находится файл gta_sa.exe).
+[Скачайте и запустите файл](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.exe?raw=true) (который просто распаковывает файлы, никакой рекламы, папок в меню «Пуск», ярлыков и прочего он не создаёт и не добавляет), для установки необходимо лишь запустить его и выбрать папку с игрой (там, где находится файл gta_sa.exe).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
 ## Ручная установка
-[Скачайте архив](https://github.com/ARX-DEV/Adev-Addon/blob/main/AVPGameProtect.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить архиватор «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком](https://github.com/ARX-DEV/Adev-Addon/blob/main/AVPGameProtect.exe?raw=true).
+[Скачайте архив](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.rar?raw=true) и распакуйте все файлы в папку с игрой (там, где находится файл gta_sa.exe), подтвердив замену в случае необходимости. Если архив не получается открыть, необходимо скачать и установить архиватор «WinRAR» с официального [сайта](https://www.win-rar.com/start.html?&L=0) или воспользоваться [автоматическим установщиком](https://github.com/ARX-DEV/Adev-Addon/blob/main/Adev%20Addon.exe?raw=true).
 ____
 [:arrow_up: Оглавление](#оглавление) 
 ____
